@@ -29,7 +29,7 @@ classes = [
     "Potato___healthy",
     "Strawberry___Leaf_scorch",
     "Strawberry___healthy",
-    "Tomato___Late_blight"
+    "Tomato___Late_blight",
     "Tomato___healthy",
 ]
 
